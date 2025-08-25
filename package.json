@@ -1,0 +1,28 @@
+{
+  "name": "kristina-personal-website",
+  "version": "1.0.0",
+  "description": "Personal portfolio website inspired by Kristina Webflow template",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server --port=3000",
+    "build": "echo 'Build completed'",
+    "start": "live-server --port=3000"
+  },
+  "keywords": [
+    "portfolio",
+    "personal-website",
+    "resume",
+    "cv",
+    "freelancer"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "dependencies": {
+    "aos": "^2.3.4",
+    "swiper": "^11.0.5"
+  }
+}
+
