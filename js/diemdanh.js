@@ -6,8 +6,8 @@
   var password = document.getElementById('dd-password');
 
   // TODO: Cập nhật thông tin xác thực và liên kết dữ liệu thực tế
-  var VALID_USER = 'teacher';
-  var VALID_PASS = '123456';
+  var VALID_USER = 'ThuDuyen98';
+  var VALID_PASS = 'ysof2025';
   var DATA_URL = 'https://khoanglang.notion.site/Qu-n-l-h-c-sinh-l-p-h-c-v-k-thi-trong-m-t-n-n-t-ng-duy-nh-t-29d13bdb2c8e81c8b5e8e08bd91bca0e?pvs=73';
 
   form.addEventListener('submit', function(e){
@@ -19,5 +19,6 @@
     }
   });
 })();
+
 
 
